@@ -3,9 +3,19 @@
 
 <table>
   <tr>
+    <td>Loader 1</td>
+    <td>Loader 2</td>
+    <td>Loader 3</td>
+  </tr>
+  <tr>
     <td><img src="/loader1.gif" alt="Loader 1" width="250"/></td>
     <td><img src="/loader2.gif" alt="Loader 2" width="250"/></td>
     <td><img src="/loader3.gif" alt="Loader 3" width="250"/></td>
+  </tr>
+  <tr>
+    <td>Loader 4</td>
+    <td>Loader 5</td>
+    <td>Loader 6</td>
   </tr>
   <tr>
     <td><img src="/loader4.gif" alt="Loader 4" width="250"/></td>
