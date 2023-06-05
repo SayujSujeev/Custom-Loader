@@ -1,16 +1,30 @@
-# custom_loder
+# Custom Animation loader
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="/loader1.gif" alt="Loader 1" width="300"/></td>
+    <td><img src="/loader2.gif" alt="Loader 2" width="300"/></td>
+    <td><img src="/loader3.gif" alt="Loader 3" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/loader4.gif" alt="Loader 4" width="300"/></td>
+    <td><img src="/loader5.gif" alt="Loader 5" width="300"/></td>
+    <td><img src="/loader6.gif" alt="Loader 6" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/loader7.gif" alt="Loader 7" width="300"/></td>
+    <td><img src="/loader8.gif" alt="Loader 8" width="300"/></td>
+    <td><img src="/loader9.gif" alt="Loader 9" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/loader10.gif" alt="Loader 10" width="300"/></td>
+    <td><img src="/loader11.gif" alt="Loader 11" width="300"/></td>
+    <td><img src="/loader12.gif" alt="Loader 12" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/loader13.gif" alt="Loader 13" width="300"/></td>
+    <td><img src="/loader14.gif" alt="Loader 14" width="300"/></td>
+    <td><img src="/loader15.gif" alt="Loader 15" width="300"/></td>
+  </tr>
+</table>
